@@ -23,8 +23,13 @@ Monte Carlo 시뮬레이션에서 사용된 변수
 예시 값: 252 (1년간의 거래일 수)
 
 
+
+
 [결과]
+
 ![output](https://github.com/parkppjjmm/Monte-Carlo-Simulation/assets/56201670/1420d1f8-4ab6-410d-b567-14b7a1397e1b)
+
+
 
 
 mu와 sigma 계산:
